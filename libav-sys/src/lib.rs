@@ -4,6 +4,7 @@
 pub mod avcodec;
 pub mod avformat;
 pub mod avfilter;
+pub mod avutil;
 pub mod avresample;
 pub mod swresample;
 
